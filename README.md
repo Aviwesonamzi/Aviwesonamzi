@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aviwesonamzi
 - 👀 I’m interested in Information technology
-- 🌱 I’m currently learning Alx SE Program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
