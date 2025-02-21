@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Aviwesonamzi
-- 👀 I’m interested in Information technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Aviwesonamzi/Aviwesonamzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Aviwesonamzi
+👀 I’m passionate about Information Technology and specialize in web development and cybersecurity.
+💞️ I’m looking to collaborate on full-stack projects, cybersecurity solutions, and open-source initiatives.
+📫 Feel free to reach me via email or connect with me on LinkedIn at LinkedIn Profile.
